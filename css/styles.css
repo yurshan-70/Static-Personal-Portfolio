@@ -1,6 +1,6 @@
 body {
   color: #40514E;
-  margin: 0;
+  /* margin: 0; */
   text-align: center;
   font-family: 'Merriweather Sans', sans-serif;
 }
@@ -33,7 +33,7 @@ a {
 }
 
 a:hover {
-  color: #eaf6f6;
+  color: #dd16d3;
 }
 
 p {
@@ -128,6 +128,9 @@ padding: 40px 0 20px;
   background: -moz-linear-gradient(top,  #11CDD4,  #11999E);
   text-decoration: none;
 }
+
+
+
 .btn:hover {
   color: #FFFFFF;
   background: #468CCF;
@@ -141,3 +144,4 @@ padding: 40px 0 20px;
   color: #eaf6f6;
   font-size: 0.85rem;
 }
+
